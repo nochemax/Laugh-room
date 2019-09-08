@@ -1,3 +1,10 @@
+
+# Crador Smp_A
+# Fecha 08.09.2019
+# Nombre programa Laugh room
+# Tipo phyton3
+# simple server apache2 localhot con dominio
+
 import os
 import time
 import sys
